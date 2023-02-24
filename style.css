@@ -1,0 +1,20 @@
+img{
+  width:100%;
+    object-fit: contain; 
+}  
+#jumbo{
+  padding:0; 
+}
+.row{
+  display: flex; 
+  justify-content: center;
+  justify-content: space-between; 
+} 
+.navbar-brand{
+  height: 100px; 
+  width: 100px;
+} 
+.btn-outline-success{
+   width: 60px;
+    height: 60px;
+}
